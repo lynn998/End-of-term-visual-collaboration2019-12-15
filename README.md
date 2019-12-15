@@ -125,3 +125,9 @@
 ![屏幕快照 2019-12-15 下午7.29.09.png](https://upload-images.jianshu.io/upload_images/9746829-7c66c8cd21847882.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![屏幕快照 2019-12-15 下午7.13.30.png](https://upload-images.jianshu.io/upload_images/9746829-3e2555ef444ce1fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![屏幕快照 2019-12-15 下午7.10.59.png](https://upload-images.jianshu.io/upload_images/9746829-22b41aa31e3f0454.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+#### 九、备选课题
+- 1. 微博事件在线可视分析-用于帮助自己和其他人更快更准确地把握事件的发展脉络，发现隐藏在故事背后的秘密
+- 2. 针对广州市创业群体提供的创业方向选择和资本选择可视化参考-用于清楚自己所创办的初创公司，选择的产业天花板高还是低、资本的分布可能结构、能不能进驻到众创空间然后拿到风险投资机构的扶持、政府会不会支持你的产业发展，提供了一个思考路径的可视化
