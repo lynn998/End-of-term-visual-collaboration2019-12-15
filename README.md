@@ -122,7 +122,6 @@
 #### 八、更多的数据清洗资料
 
 ![屏幕快照 2019-12-15 下午7.10.22.png](https://upload-images.jianshu.io/upload_images/9746829-00cafb7e2ab7ea5c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![屏幕快照 2019-12-15 下午7.10.59.png](https://upload-images.jianshu.io/upload_images/9746829-22b41aa31e3f0454.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![屏幕快照 2019-12-15 下午7.29.09.png](https://upload-images.jianshu.io/upload_images/9746829-7c66c8cd21847882.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![屏幕快照 2019-12-15 下午7.13.30.png](https://upload-images.jianshu.io/upload_images/9746829-3e2555ef444ce1fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![屏幕快照 2019-12-15 下午7.10.59.png](https://upload-images.jianshu.io/upload_images/9746829-22b41aa31e3f0454.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
